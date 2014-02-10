@@ -1,3 +1,5 @@
+再一次感叹开源世界的精神: 有同学竟然把Yaf的功能用PHP写了一遍, 为了让不方便装扩展的同学可以开发
+
 ### Setup in IDE PhpStorm
 
  Menu "File" -> "Settings" -> "PHP" -> _Select path to folder "php-yaf-doc"_
